@@ -1,4 +1,4 @@
-#LearnStatusBar
+# LearnStatusBar
 自定义状态栏
 
 ![效果图](./gif.gif)
